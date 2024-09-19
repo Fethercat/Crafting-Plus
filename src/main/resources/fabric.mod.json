@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "craftingplus",
+	"version": "${version}",
+	"name": "Crafting+",
+	"description": "A simple Minecraft mod that adds extra crafting recipes to the game!",
+	"authors": [
+		"ShadowedLeaves"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "assets/craftingplus/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.shadowedleaves.craftingplus.CraftingPlus"
+		],
+		"client": [
+			"me.shadowedleaves.craftingplus.CraftingPlusClient"
+		],
+		"fabric-datagen": [
+			"me.shadowedleaves.craftingplus.CraftingPlusDataGenerator"
+		]
+	},
+	"mixins": [
+		"craftingplus.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
