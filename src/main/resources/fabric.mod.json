@@ -8,8 +8,8 @@
 		"ShadowedLeaves"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": ""
+		"homepage": "https://github.com/Fethercat/Crafting-Plus/wiki",
+		"sources": "https://github.com/Fethercat/Crafting-Plus"
 	},
 	"license": "MIT",
 	"icon": "assets/craftingplus/icon.png",
