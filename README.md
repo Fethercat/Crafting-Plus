@@ -2,6 +2,8 @@
 
 **Crafting+** is a QoL mod that adds extra recipes into the game.
 
+Download **Crafting+** here: https://modrinth.com/mod/shadowedleaves-crafting+
+
 Report issues here: https://github.com/Fethercat/Crafting-Plus/issues
 
 Learn more about the mod here: https://github.com/Fethercat/Crafting-Plus/wiki
@@ -79,6 +81,8 @@ This is a **client-sided** mod.
 This mod **may** not be maintained in the future. I created this mod as a practice to 
 get into Fabric modding. If I get enough support for this mod, I may consider to 
 keep maintaining it in the future.
+
+#### **Modrinth > Curseforge**
 
 ---
 
