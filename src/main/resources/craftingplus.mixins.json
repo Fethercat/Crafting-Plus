@@ -3,7 +3,8 @@
 	"package": "me.shadowedleaves.craftingplus.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"MinecraftWindowNameMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
