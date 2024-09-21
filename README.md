@@ -55,7 +55,7 @@ Packed Ice from Blue Ice
 Nether Wart from Nether Wart Block
 
 A **Stone Pickaxe** can be crafted from the stones listed below:
- 
+
 - Andesite
 - Deepslate
 - Diorite
@@ -75,11 +75,8 @@ Feel free to message me to ask a question or suggest a feature!
 
 ### Extra Info
 
-This is a **client-sided** mod.
-
-
-This mod **may** not be maintained in the future. I created this mod as a practice to 
-get into Fabric modding. If I get enough support for this mod, I may consider to 
+This mod **may** not be maintained in the future. I created this mod as a practice to
+get into Fabric modding. If I get enough support for this mod, I may consider to
 keep maintaining it in the future.
 
 #### **Modrinth > Curseforge**
