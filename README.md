@@ -20,6 +20,36 @@ Sorry for the inconvenience.
 
 ### Features
 
+Smelt Raw Iron Block -> Iron Block
+
+Blast Raw Iron Block -> Iron Block
+
+Smelt Raw Gold Block -> Gold Block
+
+Blast Raw Gold Block -> Gold Block
+
+Smelt Raw Copper Block -> Copper Block
+
+Blast Raw Copper Block -> Copper Block
+
+Smelt Rotten Flesh -> Leather
+
+Smelt Saplings -> Dead Bush
+
+Blast Red Sand -> Glass
+
+Blast Sand -> Glass
+
+Blast Netherrack -> Nether Brick
+
+Blast Cobblestone -> Stone
+
+Blast Cobbled Deepslate -> Deepslate
+
+Blast Clay Ball -> Brick
+
+Blast Clay Block -> Brick Block
+
 Brewing Stand from Blackstone
 
 Craftable Horse Armor:

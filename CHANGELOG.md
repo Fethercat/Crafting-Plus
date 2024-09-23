@@ -2,7 +2,41 @@
 
 ---
 
-(**Latest**) Version **1.1.0**:
+**(Latest)** Version **1.2.0**:
+
+Smelt Raw Iron Block -> Iron Block
+
+Blast Raw Iron Block -> Iron Block
+
+Smelt Raw Gold Block -> Gold Block
+
+Blast Raw Gold Block -> Gold Block
+
+Smelt Raw Copper Block -> Copper Block
+
+Blast Raw Copper Block -> Copper Block
+
+Smelt Rotten Flesh -> Leather
+
+Smelt Saplings -> Dead Bush
+
+Blast Red Sand -> Glass
+
+Blast Sand -> Glass
+
+Blast Netherrack -> Nether Brick
+
+Blast Cobblestone -> Stone
+
+Blast Cobbled Deepslate -> Deepslate
+
+Blast Clay Ball -> Brick
+
+Blast Clay Block -> Brick Block
+
+---
+
+Version **1.1.0**:
 
 Added Custom Window Title
 
