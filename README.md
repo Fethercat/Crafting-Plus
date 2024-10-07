@@ -109,8 +109,6 @@ This mod **may** not be maintained in the future. I created this mod as a practi
 get into Fabric modding. If I get enough support for this mod, I may consider to
 keep maintaining it in the future.
 
-#### **Modrinth > Curseforge**
-
 ---
 
 ### License
