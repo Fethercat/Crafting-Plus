@@ -97,7 +97,7 @@ A **Stone Pickaxe** can be crafted from the stones listed below:
 
 ### Contact
 
-Discord: fablehaven77
+Discord: shadowedleaves_
 
 Feel free to message me to ask a question or suggest a feature!
 
