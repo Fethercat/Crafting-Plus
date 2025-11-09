@@ -10,11 +10,11 @@ Learn more about the mod here: https://github.com/Fethercat/Crafting-Plus/wiki
 
 ---
 
-### Supported Minecraft Versions
+### Supported Versions
 
-This mod currently only supports **1.20.4**.
+- 1.20.4
 
-Sorry for the inconvenience.
+**Support for this project has been discontinued.**
 
 ---
 
@@ -105,9 +105,9 @@ Feel free to message me to ask a question or suggest a feature!
 
 ### Extra Info
 
-This mod **may** not be maintained in the future. I created this mod as a practice to
-get into Fabric modding. If I get enough support for this mod, I may consider to
-keep maintaining it in the future.
+Supported Languages:
+
+- English
 
 ---
 
